@@ -1,3 +1,15 @@
+This cloned repository is meant to host modifications of the source files of my own smartrapcore alu.
+
+DO NOT USE ON A VANILLA SMARTRAPCORE ALU, it won't work properly.
+
+Installed mods :
+
+http://www.reprap-france.com/produit/1234568387-carte-dinterfacage-de-capteur-inductifcapacitif
+Aluminium heat bed
+Modified Z carriage
+New extruder
+
+
 # Marlin 3D Printer Firmware
 <img align="right" src="../../raw/1.1.x/buildroot/share/pixmaps/logo/marlin-250.png" />
 
